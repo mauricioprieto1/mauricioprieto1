@@ -1,7 +1,8 @@
 ## 🚀 Oscar Mauricio Prieto Moreno 💻
 
 <div align="center">
-  <img src="https://tenor.com/wGIz.gif" alt="Coding Gif" width="300">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhndXZjbnB1MDE3Y2t2bDN3ZWM1cWRjNmZnOGlrYnZjcHMxaHlkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Coding Gif" width="300">
+
 </div>
 
 Hey there! I'm Mauricio, a **first-generation Hispanic Computer Science student @ UTEP** (4.0 GPA) and **full-stack developer** passionate about building AI-powered and data-driven applications that make information and opportunities more accessible. 🌎✨
