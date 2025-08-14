@@ -18,7 +18,7 @@ Hey there! I'm Mauricio, a **first-generation Hispanic Computer Science student 
 
 <div>
   <ul>
-    <li>🌱 Currently learning: Advanced React, cloud deployment, and AI integration 🚀</li>
+    <li>🌱 Currently learning: React, cloud deployment, and AI integration 🚀</li>
     <li>💼 Open to: SWE, AI/ML, or data engineering internships.
     <a href="https://drive.google.com/YOUR_RESUME_LINK">Check out my resume! ⭐</a></li>
   </ul>
@@ -27,7 +27,7 @@ Hey there! I'm Mauricio, a **first-generation Hispanic Computer Science student 
 ### 🔧 Tech Stack
 
 ```
-JavaScript | React | Node.js | Express.js | Python | Flask | SQL Server | Docker
+JavaScript | React | Node.js | Express.js | Python | Flask | SQL | Docker
 ```
 ### 📌 Featured Projects
 
@@ -39,10 +39,10 @@ JavaScript | React | Node.js | Express.js | Python | Flask | SQL Server | Docker
 ### 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/mauricioprietom/">
     <img src="https://img.shields.io/badge/LinkedIn-Mauricio%20Prieto%20Moreno-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mauricioprieto1">
     <img src="https://img.shields.io/badge/GitHub-Mauricio--Prieto-black?style=flat&logo=github" alt="GitHub Badge">
   </a>
   <a href="https://YOUR_PORTFOLIO_URL">
@@ -52,4 +52,4 @@ JavaScript | React | Node.js | Express.js | Python | Flask | SQL Server | Docker
 
 ### 🎯 Fun Fact
 
-When I’m not coding or exploring AI tools, you can find me at hackathons, building side projects, or organizing community events to help other students break into tech. 🚀
+When I’m not coding or exploring AI tools, you can find me at hackathons, building side projects, playing volleyball, hiking scenic trails, or organizing community events to help other students break into tech. 🚀
