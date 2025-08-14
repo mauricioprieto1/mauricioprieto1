@@ -31,7 +31,7 @@ JavaScript | React | Node.js | Express.js | Python | Flask | SQL | Docker
 ```
 ### 📌 Featured Projects
 
-- **Economic Data Visualization Platform** — Interactive dashboard for 2,400+ Mexican municipalities, using React, Node.js, SQL Server, Mapbox, and automated ETL pipelines in Python.
+- **Hunt Institute Dashboard** — Interactive dashboard for 2,400+ Mexican municipalities, using React, Node.js, SQL Server, MapLibre, and automated ETL pipelines in Python.
 - **MoodTunes AI** — Playlist generator that detects user sentiment using Azure Text Analytics and Spotify API.
 - **STAR** — AI-powered student assistant app delivering Duolingo-style micro-lessons and academic organization tools.
 - **Instruction Complexity Analyzer** — ML model predicting instruction difficulty to support users with executive function challenges.
