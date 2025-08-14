@@ -20,7 +20,7 @@ Hey there! I'm Mauricio, a **first-generation Hispanic Computer Science student 
   <ul>
     <li>🌱 Currently learning: React, cloud deployment, and AI integration 🚀</li>
     <li>💼 Open to: SWE, AI/ML, or data engineering internships.
-    <a href="https://drive.google.com/YOUR_RESUME_LINK">Check out my resume! ⭐</a></li>
+    <a href="https://drive.google.com/file/d/1uN4wk4TG6srhwJ1ZXURClmIs3azEjjLN/view?usp=sharing">Check out my resume! ⭐</a></li>
   </ul>
 </div>
 
