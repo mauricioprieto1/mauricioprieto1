@@ -1,6 +1,6 @@
-# Mauricio Prieto — SWE & Data Engineering
+# Mauricio Prieto | Mau
 
-Hi, I’m Mauricio. I’m a CS student at UTEP who likes turning research and messy data into usable software.
+Hi, I’m Mauricio. I’m a second year CS student at UTEP who likes turning research and messy data into usable software.
 
 ## What I’m working on
 - **UTEP Hunt Institute:** dashboards, APIs, and data workflows that make regional data easier to use.
