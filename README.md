@@ -1,21 +1,16 @@
-# Mauricio Prieto | Mau
+# Mauricio Prieto
 
-Hi, I’m Mauricio. I’m a second year CS student at the University of Texas at El Paso.
+CS @ UTEP · El Paso, TX · 2nd year · 3.93 GPA
 
-## What I’m working on
-- **UTEP Hunt Institute:** dashboards, APIs, and data workflows that make regional data easier to use.
-- **GDG on Campus: UTEP (Professional Development/Technical Officer):** I plan professional-development workshops, lead technical sessions, and mentor peers.
+Incoming SWE Intern @ **Bloomberg**, Summer 2026. Currently shipping dashboards and data pipelines at the UTEP Hunt Institute.
 
-## Tech
-`React` · `TypeScript` · `Node/Express` · `Python` · `SQL (SQL Server/PostgreSQL)` · `Docker` · `REST APIs`
+### Now
+- **Hunt Institute (UTEP)**: U.S./Mexico border economic dashboards. React, TypeScript, ASP.NET Core, PostgreSQL, Python ETL.
+- **ColorStack at UTEP**: Co-founder & Vicepresident.
+- **GDG on Campus UTEP**: Professional Development Director.
 
-## Highlighted projects
-- **Hunt Institute Dashboard** — Interactive economic indicators app (React/Node/SQL + map libraries).
-- **MoodTunes AI** — Sentiment → playlists using Azure Text Analytics + Spotify API.
-- **STAR** — Student helper with micro-lessons and organization tools.
-- **Instruction Complexity Analyzer** — Model to estimate task difficulty for users with executive-function challenges.
+### Stack
+Python, TypeScript, React, C#/.NET, Node, SQL (Postgres, MSSQL), Docker, Pandas
 
-## Connect
-- Resume: [PDF](https://drive.google.com/file/d/1w-EuwCy9leqZieqGOVcdp7G_e4Pr0aTv/view?usp=sharing)
-- LinkedIn: [mauricioprietom](https://www.linkedin.com/in/mauricioprietom/)
-- GitHub: [@mauricioprieto1](https://github.com/mauricioprieto1)
+### Links
+[LinkedIn](https://www.linkedin.com/in/mauricioprietom/) · [Resume](https://drive.google.com/file/d/1w-EuwCy9leqZieqGOVcdp7G_e4Pr0aTv/view?usp=sharing) · oscarmprietom@outlook.com
